@@ -1,7 +1,7 @@
 {
   "files": {
     "main.css": "/bookFood/static/css/main.77cc3bdd.css",
-    "main.js": "/bookFood/static/js/main.e47be860.js",
+    "main.js": "/bookFood/static/js/main.7bd51edf.js",
     "static/media/banner-02.jpg": "/bookFood/static/media/banner-02.1d3252d35b78ec875fb7.jpg",
     "static/media/remixicon.svg?t=1590207869815": "/bookFood/static/media/remixicon.9cedd2150922ead84869.svg",
     "static/media/network.png": "/bookFood/static/media/network.7deb539d0303413c1704.png",
@@ -39,10 +39,10 @@
     "static/media/slick.woff": "/bookFood/static/media/slick.295183786cd8a1389865.woff",
     "index.html": "/bookFood/index.html",
     "main.77cc3bdd.css.map": "/bookFood/static/css/main.77cc3bdd.css.map",
-    "main.e47be860.js.map": "/bookFood/static/js/main.e47be860.js.map"
+    "main.7bd51edf.js.map": "/bookFood/static/js/main.7bd51edf.js.map"
   },
   "entrypoints": [
     "static/css/main.77cc3bdd.css",
-    "static/js/main.e47be860.js"
+    "static/js/main.7bd51edf.js"
   ]
 }
